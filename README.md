@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on personal and Freelance projects 👩🏻‍💻<br>I'm looking to collaborate with Graphic Designers, Web Developers and Programmers 💫 <br>I'm currently learning Full Stack in Java Scrip 🤓 ❤️ 💻<br>Ask me about Graphic Design - Audiovisual - Web Design - UX/UI Design 😉
+I'm currently working on personal and Freelance projects 👩🏻‍💻<br>I'm looking to collaborate with Graphic Designers, Web Developers and Programmers 💫 <br>I'm currently learning Full Stack in Java Script 🤓 ❤️ 💻<br>Ask me about Graphic Design - Audiovisual - Web Design - UX/UI Design 😉
 
 
 ## 🌐 Socials:
