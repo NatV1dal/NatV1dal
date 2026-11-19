@@ -55,8 +55,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6?style=flat-square&logo=adobedreamweaver&logoColor=white)
 
 ### 🎬 Audiovisual & Photography
 
@@ -70,16 +68,5 @@
 ![Salesforce](https://img.shields.io/badge/Salesforce_Marketing_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![HTML Email](https://img.shields.io/badge/HTML_Email-E34F26?style=flat-square&logo=html5&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatV1dal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatV1dal&theme=synthwave&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatV1dal&theme=synthwave&hide_border=true&layout=compact)
-
----
 
 ✨ *Designing ideas, developing experiences and bringing creativity to life.*
